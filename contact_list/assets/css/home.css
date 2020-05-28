@@ -1,0 +1,53 @@
+
+#page-heading
+{
+    text-align: center;
+    color:grey;
+       border-color: azure;
+}
+#phone_name
+{
+    padding:0;
+    text-align: center;
+    text-transform: capitalize;
+    color:blueviolet;
+    font-size: medium;
+    font-style: oblique;
+    font-family: sans-serif;
+}
+.contact
+{
+    padding:3px 10px;
+text-align: center;
+    
+   
+    color:blue;
+}
+.contact.details
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+
+    width:50%;
+}
+.contact.delete_button
+{
+    width: 10%;
+    padding: 3px;
+   
+}
+#form
+{
+    text-align: center;
+    
+}
+#phone_name ul li{
+    text-align: center;
+}
+#contact
+{
+    text-align: center;
+}
